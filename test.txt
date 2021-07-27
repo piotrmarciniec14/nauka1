@@ -1,0 +1,5 @@
+to jest testowy plik tekstowy, w którym można:
+-cos napisac
+-cos przepisac 
+-cos omowic
+coś dopisane
