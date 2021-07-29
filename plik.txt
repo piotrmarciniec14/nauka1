@@ -1,1 +1,2 @@
 pierwszy raz plik
+drugi wiersz dodano do plik
